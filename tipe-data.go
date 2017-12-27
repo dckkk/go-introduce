@@ -1,4 +1,5 @@
-/* uint8 = 	0 ↔ 255
+/*
+uint8 = 	0 ↔ 255
 uint16 = 	0 ↔ 65535
 uint32 = 	0 ↔ 4294967295
 uint64 = 	0 ↔ 18446744073709551615
@@ -12,4 +13,5 @@ int = 	sama dengan int32 atau int64 (tergantung nilai)
 rune = 	sama dengan int32
 bool = boolean
 string = "string"
-nil = ""/false/0 */
+nil = ""/false/0
+*/
